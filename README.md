@@ -3,7 +3,7 @@ Vagrant environment for Arista Leaf Spine
 
 Description
 
-This VagrantFile creates and EOS 4.20.1F environment consisting of two paired spine switches and two 
+This VagrantFile creates an EOS 4.20.1F environment consisting of two paired spine switches and two 
 sets of two paired leaf switches
 
 Hostnames:
